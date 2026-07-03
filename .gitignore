@@ -1,0 +1,10 @@
+# IDE
+.idea/
+
+# CodeBuddy 工作记忆（私有）
+.codebuddy/
+
+# Python
+.venv/
+__pycache__/
+*.pyc
