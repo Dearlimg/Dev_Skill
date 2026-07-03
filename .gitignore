@@ -4,6 +4,9 @@
 # CodeBuddy 工作记忆（私有）
 .codebuddy/
 
+# codebuddy/ 扁平兼容层（sync.ps1 自动生成，勿提交）
+codebuddy/
+
 # Python
 .venv/
 __pycache__/

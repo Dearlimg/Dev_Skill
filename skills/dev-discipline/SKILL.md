@@ -1,4 +1,5 @@
 ---
+name: dev-discipline
 description: "通用开发规范：架构优先、文档先行、CR自测、八荣八耻开发准则，适用于所有项目的开发任务"
 globs: ["*"]
 ---
